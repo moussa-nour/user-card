@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+body{
+background-image: url('https://st5.depositphotos.com/31662992/63282/i/450/depositphotos_632822984-stock-photo-generative-illustration-gaming-background-abstract.jpg');
+background-size: cover;
+background-position: center;
+}
+
 
 .App-logo {
   height: 40vmin;
